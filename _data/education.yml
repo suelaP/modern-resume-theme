@@ -1,9 +1,21 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  name: University of Tirana
+  dates: 2012 - 2015
+  qualification: BSc Business Informatics
+  quote: > 
+       University of Tirana, Faculty of Economics
+    
+  description: |
+    Bachelor's of Business Informatics program is comprised of a three year curriculum at the Faculty of Economics. 
+    The bachelor Program in Business Informatics aims at the qualification of new professionals with general knowledge in Information Systems, Business Studies, and Computer Sciences. It encompasses everything from utilising Information   Technology, to making informed decisions in business and staying alert to the challenges in finance.
+
+- layout: left
+  name: University of Tirana
+  dates: 2016 - 2018
+  qualification: MSc Information Systems
+  quote: > 
+       University of Tirana, Faculty of Economics
+    
+  description: |
+    The Master of Business Information Systems is a business-focused IT areas postgraduate degree that covers the business IT spectrum from supporting business operations through to supporting managers' decision making.
