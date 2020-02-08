@@ -16,7 +16,7 @@ linkedin_username: suela-palushi-85bb4b96
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/img/me.jpg
 about_content: | # this will include new lines to allow paragraphs
     Hi, my name is Suela and I am an agile practitioner with a history of working in the Open Source computer software industry. Mostly interested in Software quality assurance and product development, I am always trying to learn more about the best practices followed in the industry, especially among different open source projects, communities, and companies following an Open Source business model. I first got in touch with the Open Source movement at [Open Labs Hackerspace](https://openlabs.cc), the first community in Albania focused in promoting software freedom, open-source software, free culture, online security, and knowledge sharing. Since <mark>2014</mark> I have been actively involved with Open Labs activities.
 
