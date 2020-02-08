@@ -18,16 +18,7 @@ linkedin_username: suela-palushi-85bb4b96
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
-
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+    Hi, my name is Suela and I am an agile practitioner with a history of working in the Open Source computer software industry. Mostly interested in Software quality assurance and product development, I am always trying to learn more about the best practices followed in the industry, especially among different open source projects, communities, and companies following an Open Source business model. I first got in touch with the Open Source movement at [Open Labs Hackerspace](https://openlabs.cc), the first community in Albania focused in promoting software freedom, open-source software, free culture, online security, and knowledge sharing. Since <mark>2014</mark> I have been actively involved with Open Labs activities.
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
