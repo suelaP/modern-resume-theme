@@ -1,10 +1,18 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: phpList Ltd
+  link: phplist.com
+  job_title: QA Manager
+  dates: November 2017 - present
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+   phpList is Open Source software for sending email newsletters, marketing campaigns and announcements. phpList sends billion of messages using sophisticated built-in deliverability tools and comprehensive permission marketing systems.
+  description: | 
+   Analyze and review feature requirement definitions along with the product team in order to establish acceptance    criteria and create solid testing plans. Triage issues efficiently, organising them by highest impact and update relevant feature documentation.
+
+- layout: left
+  company: phpList Ltd
+  link: phplist.com
+  job_title: Product Owner
+  dates: November 2018 - present
+  description: | 
+   Own product compositon and scheduling for various stages of the release process. Manage developer resources to ensure high priority features / fixes make necessary releases and work with other stakeholders to set priorites of major features / fixes within release roadmap.
