@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Suela Palushi
 title: CSPO & QA manager
-email: suela@phplist.com
+email: suelapalushi@protonmail.com
 website: suelapalushi.com
 
 # Social links
@@ -29,7 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | #
-    This is the "less boring" bit about me that most will probably still find boring. I usually enjoy long walks in the afternoon, scrolling random Reddit threads and procrastinating effectively by reading on topics I am not particularly interested in. I love sharing shower thoughts with friends who don't usually hesitate in using them against me whenever possible -- this can be quite fun from time to time. Whenever there is nothing to talk about I will talk about my cat, or how much I want a dog in my life ( now you know!). I am a bit of a chaotic person, but I am working in improving how I act upon my priorities hence this page, for me to publicly share what I am supposed to be working on in the upcoming months -- public shaming seems to work! As a start -  On Monday, February 10 I am supposed to start learning Python and share my progress for 100 days (watch this space ;) )
+    This is the "less boring" bit about me that most will probably still find boring. I usually enjoy long walks in the afternoon, scrolling random Reddit threads and procrastinating effectively by reading on topics I am not particularly interested in. I love sharing shower thoughts with friends who don't usually hesitate in using them against me whenever possible -- this can be quite fun from time to time. Whenever there is nothing to talk about I will talk about my cat, or how much I want a dog in my life ( now you know!).
 # Footer
 footer_show_references: false
 
