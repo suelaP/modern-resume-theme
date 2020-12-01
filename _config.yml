@@ -4,9 +4,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Suela Palushi
-title: CSPO & QA manager
+title: Product Manager
 email: suelapalushi@protonmail.com
-website: suelapalushi.com
+website: suelapalushi.tech
 
 # Social links
 twitter_username: suelapalushi
